@@ -30,6 +30,9 @@ body {
 body {
   color: rgb(var(--foreground-rgb));
   background: var(--background);
+  background-image: url("/assets/background-stars.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 a {
