@@ -75,7 +75,7 @@ ul {
   gap: 7rem;
   max-width: 1000px;
   margin: 0 auto;
-  margin-top: 6rem;
+  margin-top: 10rem;
   margin-bottom: 5rem;
   padding-inline: 1.25rem;
   align-items: flex-start;
@@ -84,7 +84,6 @@ ul {
   .detail-container {
     grid-template-columns: 1fr;
     gap: 4rem;
-    margin-top: 10rem;
     margin-bottom: 4rem;
   }
 }
@@ -160,7 +159,7 @@ ul {
   font-size: 1rem;
   line-height: 1.6rem;
   margin-bottom: 1.5rem;
-  height: 14rem;
+  height: 12rem;
 }
 @media (max-width: 68rem) {
   .detail-container .content-wrapper .content-tab p {
