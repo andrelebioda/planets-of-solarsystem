@@ -3,8 +3,6 @@
 import { useState } from "react";
 
 const Details = ({ data }) => {
-  console.log(data[0]);
-
   const planet = data[0];
   const name = planet.name;
 
